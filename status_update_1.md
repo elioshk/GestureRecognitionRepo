@@ -21,3 +21,6 @@ We will most likely heavily reference their project, linked here:
 https://github.com/ahmetgunduz/Real-time-GesRec
 
 Although we planned to train our own model, we aren't yet certain if we've secured funding for the compute time needed to conduct training.  As such we are considering simply using the pre-trained model from the link above, then adding in some of our own pictures/videos to add a custom gesture with transfer learning. This is an option which would allow us to reintroduce handicap applications and solutions into our project goals.
+
+Link to video for status update 1 below:
+https://youtu.be/3Mhnp7ptOPU
