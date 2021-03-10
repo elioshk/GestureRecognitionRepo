@@ -2,3 +2,5 @@ We've split our project into two groups, one working on training the AI for gest
 
 For the output configuration, we've identified a python library that will allow us to manipulate keypresses and mouse movement
 https://pypi.org/project/pynput/
+
+While we have had progress working with lambda labs and figuring out how it will function with our project, mid-terms have presented a significant obstacle as far as time management goes, but this should rectify itself as exams finish up.
