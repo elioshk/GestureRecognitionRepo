@@ -3,6 +3,15 @@ We've split our project into two groups, one working on training the AI for gest
 For the output configuration, we've identified a python library that will allow us to manipulate keypresses and mouse movement
 https://pypi.org/project/pynput/
 
-While we have had progress working with lambda labs and figuring out how it will function with our project, mid-terms have presented a significant obstacle as far as time management goes, but this should rectify itself as exams finish up.
+We will be using python for this implementation because it will integrate more easily with the AI, which is also in python.
 
-Going forward into the next few weeks our main goal will getting the AI working so we can start to integrate the AI with the python libraries.
+We also plan to have a simple game or demonstration which these inputs will be used on.
+
+Setbacks and challenges:
+
+We have had progress working with lambda labs and figuring out how it will function with our project, but the process has been complex
+Mid-terms have presented a significant obstacle as far as time management goes for our team to coordinate, but this should rectify itself as exams finish up.
+
+Our plan going forward:
+
+Our expectation is that we will have the AI and python input device finished by the next update, and our work from that point on will be to integrate the two and work on bugfixing issues that arise, as well as working on a demonstration that fits the capabilities of the AI.
