@@ -16,4 +16,4 @@ Mid-terms have presented a significant obstacle as far as time management goes f
 
 Our plan going forward:
 
-Plans going forward for are to continue working through the repo for the existing model, learning and preparing the model for the transfer learning step.  We have also ordered a basic camera for the data gathering phase which we are closing in on. Additionally, we plan on finishing a preliminary version of a python script which will take the data we get from our AI and configure it to register as key presses and/or mouse movement to begin testing.
+Plans going forward are to continue working through the repo for the existing model, learning and preparing the model for the transfer learning step.  We have also ordered a basic camera for the data gathering phase which we are closing in on. Additionally, we plan on finishing a preliminary version of a python script which will take the data we get from our AI and configure it to register as key presses and/or mouse movement to begin testing.
